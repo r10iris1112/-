@@ -1,0 +1,49 @@
+
+img{
+    width: 19rem;
+    height: 19rem;
+}
+h2{
+    text-align: center;
+    font-size: 20px;
+
+}
+div{
+    display: inline-block;
+    width: 19rem;
+    height: 25rem;
+    margin: 1rem;
+    padding: 0;
+
+    border-width: 2.5px;
+    border-color: black;
+    border-style: solid;
+}
+
+
+
+
+.box1{
+    background-color: rgb(248, 170, 229)
+}
+.box2{
+    background-color: rgb(170, 200, 248)
+}
+.box3{
+    background-color: rgb(201, 170, 248);
+}
+.box4{
+    background-color: rgb(193, 248, 170);
+}
+.box5{
+    background-color: rgb(248, 208, 170);
+}
+.box6{
+    background-color: rgb(248, 170, 170);
+}
+.box7{
+    background-color: rgb(248, 243, 170);
+}
+.box8{
+    background-color: rgb(219, 212, 212);
+}
